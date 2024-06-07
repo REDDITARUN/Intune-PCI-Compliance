@@ -1,8 +1,4 @@
-### Repository Name Suggestion
 
-**Intune-PCI-Compliance**
-
-### GitHub README File
 
 # Intune PCI Compliance and Privileged Identity Management
 
